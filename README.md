@@ -29,6 +29,7 @@ While solving the assignment, I focused on:
 ## Execution
 The notebook has been fully executed before submission.  
 All outputs shown correspond to the code in the notebook.
+Developed and executed using Google Colab.
 
 ## Notes
 The solutions prioritize clarity and correctness over unnecessary complexity, reflecting a practical approach to problem-solving and debugging.
